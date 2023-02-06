@@ -1,4 +1,4 @@
-package com.example.ldapnativedemo;
+package com.example;
 
 import org.junit.jupiter.api.Test;
 
